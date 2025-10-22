@@ -9,4 +9,4 @@ I am 18 years old, i am studing ISU on the first course
 
 ### Links to contacts
 
-[![VK](https://github.com/user-attachments/assets/325d16d0-f712-4c04-ad65-70624ea994d1)](https://vk.com/zesskaw)
+<a href="https://vk.com/zesskaw"><img src="https://github.com/user-attachments/assets/325d16d0-f712-4c04-ad65-70624ea994d1" width="40" height="40" alt="VK" /></a>
