@@ -10,3 +10,4 @@ I am 18 years old, i am studing ISU on the first course
 ### Links to contacts
 
 <a href="https://vk.com/zesskaw"><img src="https://github.com/user-attachments/assets/325d16d0-f712-4c04-ad65-70624ea994d1" width="40" height="40" alt="VK" /></a>
+<a href="t.me/poliskeizzd"><img src="<img src="https://github.com/user-attachments/assets/d843821f-cf7e-425b-922b-99ced4df1a1e" width="40" height="40" alt="VK" /></a>
